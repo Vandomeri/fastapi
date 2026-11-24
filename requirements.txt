@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pyjwt
+pwdlib[argon2]
+python-multipart
